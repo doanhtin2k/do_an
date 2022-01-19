@@ -1,6 +1,6 @@
 
 
-
+xóa file khỏi status : git checkout -- fielname
 1) Pusher SDK — Cài đặt và cấu hình
 composer require pusher/pusher-php-server "~3.0"
 
